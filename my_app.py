@@ -13,7 +13,9 @@ def install_if_missing(package_name, import_name=None):
             import tkinter.messagebox as msg
             msg.showerror("패키지 설치 오류", f"'{package_name}' 설치에 실패했습니다.\n{e}")
             sys.exit(1)
-
+install_if_missing("ttkbootstrap")
+install_if_missing("watchdog")
+install_if_missing("requests")
 
 import ttkbootstrap as ttk
 from ttkbootstrap.dialogs import dialogs
