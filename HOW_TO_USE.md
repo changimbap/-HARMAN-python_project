@@ -2,7 +2,7 @@
 
 ## 1. 프로그램 실행
 
-<img width="1540" height="940" alt="image" src="https://github.com/user-attachments/assets/a28eeeae-b136-4c88-9a62-dced4513f160" />   
+<img width="1040" height="640" alt="image" src="https://github.com/user-attachments/assets/a28eeeae-b136-4c88-9a62-dced4513f160" />   
 
 ### (1) 위 3개 파일 받아주기   
 ### (2) github_auto_upload.py 실행해주기   
@@ -12,11 +12,11 @@
 ## [1]. 토큰 발급 🌟
 ### (1) 깃허브 로그인 -> 오른쪽 상단 프로필 클릭 -> Settings -> 왼쪽 맨 밑에 developer setting 클릭  -> personal access tokens -> tokens(classic) -> generate new token   
    
-<img width="1540" height="940" alt="image" src="https://github.com/user-attachments/assets/82a57f71-b064-4849-9692-df27a8db0626" />   
+<img width="1040" height="640" alt="image" src="https://github.com/user-attachments/assets/82a57f71-b064-4849-9692-df27a8db0626" />   
    
 ### (2) repo, workflow,user 클릭 후 generate token   
    
-<img width="940" height="940" alt="image" src="https://github.com/user-attachments/assets/f7c6cd49-4f8f-497a-9640-102343b4e254" />   
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/f7c6cd49-4f8f-497a-9640-102343b4e254" />   
    
 ### (3) 발급 된 토큰 기억해두기   
       
@@ -28,7 +28,7 @@
 ### 1. 개인 정보 설정
 토큰, github 이름, 업로드 할 Github repositories 이름, 감시할 폴더
      
-<img width="806" height="519" alt="image" src="https://github.com/user-attachments/assets/98e8efdd-d622-4397-8e1f-e32e82ece6f0" />   
+<img width="406" height="259" alt="image" src="https://github.com/user-attachments/assets/98e8efdd-d622-4397-8e1f-e32e82ece6f0" />   
    
 ### 2. 동기화 할 폴더에 파일 동기화 시작
 : ▶️동기화&업로드 시작 버튼   
