@@ -1,13 +1,13 @@
 # Github 업로드 딸깍! 사용방법
 
-## 1. 프로그램 실행
+## 1️⃣. 프로그램 실행
 
 <img width="1040" height="640" alt="image" src="https://github.com/user-attachments/assets/a28eeeae-b136-4c88-9a62-dced4513f160" />   
 
 ### (1) 위 3개 파일 받아주기   
 ### (2) github_auto_upload.py 실행해주기   
  
-## 2. 개인 Github 계정 확인
+## 2️⃣. 개인 Github 계정 확인
    
 ## [1]. 토큰 발급 🌟
 ### (1) 깃허브 로그인 -> 오른쪽 상단 프로필 클릭 -> Settings -> 왼쪽 맨 밑에 developer setting 클릭  -> personal access tokens -> tokens(classic) -> generate new token   
@@ -23,7 +23,7 @@
 ## [2]. Repositories 만들기  
 ### 깃허브 로그인 -> 오른쪽 상단 프로필 클릭 -> your repo 클릭 -> new 클릭 -> 자동 업로드할 repo name 설정 -> public 설정 후 create repo
    
-## 3. 프로그램 시작
+## 3️⃣. 프로그램 시작
    
 ### 1. 개인 정보 설정
 토큰, github 이름, 업로드 할 Github repositories 이름, 감시할 폴더
@@ -36,7 +36,7 @@
 : 파일 삭제 : repo 에서는 _/recycle_bin 폴더로 들어갑니다.
 : ⏹️업로드 종료 
 
-## 4. 백준 문제
+## 4️⃣. 백준 문제
 1. ✏️백준 문제 풀기
 : 백준 문제 클랙스 선택( 난이도 별 1 ~ 10 클래스 있음 )
 : 문제 선택하면 자동으로 그 문제 링크로 들어가집니다. 
