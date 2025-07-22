@@ -36,4 +36,4 @@ ttkbootstrap을 활용하여 사용자가 원하는 여러 가지 UI 테마를 �
 solved.ac 웹사이트의 Class별 문제 목록을 크롤링하여 보여주는 기능이 별도의 창으로 통합되어 있습니다.
 문제 목록에서 원하는 문제를 더블클릭하면 즉시 웹 브라우저의 새 탭으로 해당 문제 페이지를 열어줍니다.
 
-![Untitled diagram _ Mermaid Chart-2025-07-22-043845.png](attachment:66e29b45-c445-42d2-9795-1f8c9e3de3c3:Untitled_diagram___Mermaid_Chart-2025-07-22-043845.png)
+<img width="2048" height="3584" alt="image" src="https://github.com/user-attachments/assets/503736c4-5380-4775-869f-de443bb119cd" />
