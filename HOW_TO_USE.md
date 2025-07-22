@@ -2,11 +2,11 @@
 
 ## 1. 프로그램 실행
 
-<img width="1540" height="940" alt="image" src="https://github.com/user-attachments/assets/a28eeeae-b136-4c88-9a62-dced4513f160" />
-
+<img width="1540" height="940" alt="image" src="https://github.com/user-attachments/assets/a28eeeae-b136-4c88-9a62-dced4513f160" />   
+<br/>
 ### (1) 위 3개 파일 받아주기   
-### (2) github_auto_upload.py 실행해주기
-   
+### (2) github_auto_upload.py 실행해주기   
+</br>   
 ## 2. 개인 Github 계정 확인
    
 [1]. 토큰 발급 🌟
