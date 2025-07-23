@@ -6,8 +6,8 @@
 
 <img width="1040" height="640" alt="image" src="https://github.com/user-attachments/assets/a28eeeae-b136-4c88-9a62-dced4513f160" />
 
-1.  위 3개의 파일(`my_app.py`, `problem_finder.py`, `requirements.txt`)을 **같은 폴더**에 다운로드합니다.
-2.  `github_auto_upload.py` (또는 `my_app.py`) 파일을 실행합니다.
+1.  위 3개의 파일(`github_auto_upload.py`, `problem_finder.py`, `conjig.json`)을 **같은 폴더**에 다운로드합니다.
+2.  `github_auto_upload.py` 파일을 실행합니다.
 
 <br>
 
